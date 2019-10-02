@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Wed Oct 02 2019 09:08:39 GMT-0300 (Horário Padrão de Brasília)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/autogit.json
+
+
+Deleted files:
+
+
+Renamed files:
