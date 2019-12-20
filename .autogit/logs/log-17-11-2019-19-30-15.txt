@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Tue Dec 17 2019 19:30:15 GMT-0200 (Horário de Verão de Brasília)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-17-11-2019-19-0-10.txt
+
+
+Deleted files:
+
+
+Renamed files:
