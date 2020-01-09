@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Thu Jan 09 2020 15:38:41 GMT-0200 (Horário de Verão de Brasília)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-9-0-2020-15-8-35.txt
+
+
+Deleted files:
+
+
+Renamed files:
