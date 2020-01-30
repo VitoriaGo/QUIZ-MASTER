@@ -1,5 +1,5 @@
-const data = [
-  {id: 0, type: "simples",
+const Data = [
+  {id: 0, type: "Simple",
   question:"Olá visitante, nós do Museu MM Gerdau contamos com sua colaboração respondendo este questionário, para que nossa equipe possa melhorar o espaço para você!",
   answers:["Vamos Lá"]}, 
   {id: 1, type: "Simple",
@@ -93,4 +93,4 @@ const data = [
     question:"Você recomendaria a visita ao MM Gerdau - Museu das Minas e do Metal?",
   answers:["Sim","Não","Não desejo informar"]},
 ]
-export default data
+export default Data
