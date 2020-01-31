@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Fri Jan 31 2020 11:56:18 GMT-0200 (Horário de Verão de Brasília)
+------------------------------------------------------
+
+Modified files:
+* src/App.js
+* src/components/MetaSelect.js
+* src/components/MultSelect.js
+* src/data.js
+
+
+Created files:
+* .autogit/logs/log-30-0-2020-13-10-32.txt
+
+
+Deleted files:
+
+
+Renamed files:
