@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Fri Jan 31 2020 13:56:36 GMT-0200 (Horário de Verão de Brasília)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-31-0-2020-13-26-31.txt
+
+
+Deleted files:
+
+
+Renamed files:

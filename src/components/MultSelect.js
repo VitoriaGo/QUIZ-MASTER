@@ -1,11 +1,10 @@
 import React from "react"
-import TextBox from "./MetaSelect"
+import TextBox from "./TextBox"
 
 function MultSelect (props){
-  let AnsArray = []
+    let AnsArray = []
   let Question = <h1>{props.question.question}</h1>
-  let Answer = props.question.answers.map((string) => { if (string === "Outros:") return(<button onClick={() => {TextBox}}>{string}oi</button>)
-                else  return(<button onClick={() => {AnsArray.push(string); console.log(AnsArray)}}>{string}</button>)})
+  let Answer = props.question.answers.map((string) => <button onClick={() => {props.answerType(); AnsArray.push(string); console.log(AnsArray)}}>{string}</button>)
   return (
     <div className="multSelect">
     {Question}
