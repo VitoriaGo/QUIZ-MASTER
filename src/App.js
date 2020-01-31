@@ -31,8 +31,6 @@ const App = () => {
     {currentComponent = <OneSelect key={currentQuestion.id} question={currentQuestion} nextStep={nextStep}/>}
     else if (Data[current].type === "Multiple")
     {currentComponent = <MultSelect key={currentQuestion.id} question={currentQuestion} nextStep={nextStep}/>}
-    else {console.log("ue")
-    currentComponent = <OneSelect key={currentQuestion.id} question={currentQuestion} nextStep={nextStep}/>}
     console.log(currentComponent)
     return currentComponent}
     let currentComponent=selectComponent()

@@ -1,0 +1,35 @@
+-------------------- Auto-Git Log --------------------
+		Thu Jan 30 2020 13:10:32 GMT-0200 (Horário de Verão de Brasília)
+------------------------------------------------------
+
+Modified files:
+* package-lock.json
+* package.json
+* public/index.html
+* public/manifest.json
+* src/App.css
+* src/App.js
+* src/data.js
+* src/index.css
+* src/index.js
+
+
+Created files:
+* .autogit/logs/log-9-0-2020-16-38-52.txt
+* src/App.test.js
+* src/components/MetaSelect.js
+* src/components/MultSelect.js
+* src/components/OneSelect.js
+
+
+Deleted files:
+* public/robots.txt
+* src/background.jpg
+* src/components/question.js
+* src/logo-oficial.png
+* src/logo.png
+* src/mockLogo.jpg
+* src/serviceWorker.js
+
+
+Renamed files:
